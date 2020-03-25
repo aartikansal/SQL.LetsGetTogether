@@ -1,0 +1,5 @@
+use myNewDB;
+select * FROM Enrolment
+RIGHT JOIN Students
+ON ENROLMENT.STUDENTID=STUDENTS.STUDENTID;
+
