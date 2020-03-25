@@ -40,4 +40,6 @@ VALUES (2,2,'Physics','AstroPhysics' );
 INSERT INTO Enrolment( EnrolmentID,StudentID, Department, CourseName)
 VALUES (3,1,'Maths','Algebra' );
 
-select * from Enrolment;
+select * from Enrolment
+LEFT JOIN Students
+ON Enrolment.StudentID = Students.StudentID;
