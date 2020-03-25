@@ -90,6 +90,11 @@
                 <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
                 <item name="com.intellij.database.console.session.MessageBusSession@1ae8528" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@1b9c0e72" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
             </expand>
             <select />
           </treeState>
@@ -106,25 +111,29 @@
       <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state width="254" height="192" key="DatabaseViewActions_Filter/0.23.1280.726@0.23.1280.726" timestamp="1585171643313" />
-    <state width="933" height="179" key="GridCell.Tab.0.bottom" timestamp="1585174486447">
+    <state width="933" height="179" key="GridCell.Tab.0.bottom" timestamp="1585175134054">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state width="933" height="179" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1585171434917" />
-    <state width="933" height="179" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1585174486447" />
-    <state width="933" height="179" key="GridCell.Tab.0.center" timestamp="1585174486446">
+    <state width="933" height="179" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1585175134054" />
+    <state width="933" height="179" key="GridCell.Tab.0.center" timestamp="1585175134053">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state width="933" height="179" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1585171434916" />
-    <state width="933" height="179" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1585174486446" />
-    <state width="933" height="179" key="GridCell.Tab.0.left" timestamp="1585174486445">
+    <state width="933" height="179" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1585175134053" />
+    <state width="933" height="179" key="GridCell.Tab.0.left" timestamp="1585175134053">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state width="933" height="179" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1585171434915" />
-    <state width="933" height="179" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1585174486445" />
-    <state width="933" height="179" key="GridCell.Tab.0.right" timestamp="1585174486446">
+    <state width="933" height="179" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1585175134053" />
+    <state width="933" height="179" key="GridCell.Tab.0.right" timestamp="1585175134054">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state width="933" height="179" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1585171434917" />
-    <state width="933" height="179" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1585174486446" />
+    <state width="933" height="179" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1585175134054" />
+    <state x="297" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585174892713">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="297" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1280.727@0.23.1280.727" timestamp="1585174892713" />
   </component>
 </project>
